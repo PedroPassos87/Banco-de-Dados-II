@@ -1,0 +1,22 @@
+[
+    {
+        "_id": "2022-03-14",
+        "produto": "Cerveja"
+    },
+    {
+        "_id": "2022-03-13",
+        "produto": "Banana"
+    },
+    {
+        "_id": "2022-03-16",
+        "produto": "Laranja"
+    },
+    {
+        "_id": "2022-03-15",
+        "produto": "Bolacha"
+    },
+    {
+        "_id": "2022-03-17",
+        "produto": "Sabonete"
+    }
+]
