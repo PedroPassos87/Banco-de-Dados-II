@@ -10,5 +10,5 @@ db.create_teacher('Chris Lima',1956,'189.052.396-66')
 print(db.read_teacher('Chris Lima'))
 db.update_teacher('Chris Lima','162.052.777-77')
 
-client = TeacherCLI(db)
-client.run()
+#client = TeacherCLI(db)
+#client.run()
